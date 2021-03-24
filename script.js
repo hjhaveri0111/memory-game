@@ -10,7 +10,7 @@ var gamePlaying = false;
 var tonePlaying = false;
 var volume = 0.5;
 var guessCounter = 0;
-var lenPattern = 8; // variable that sets the length of patter
+var lenPattern = 8; // variable that sets the length of pattern
 
 function startGame(){
   progress = 0;
