@@ -6,7 +6,7 @@ Submitted by: **Harsh Jhaveri**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/memory-game-2021?path=index.html%3A1%3A0
 
 ## Required Functionality
 
