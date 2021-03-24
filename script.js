@@ -21,7 +21,7 @@ function startGame(){
   playClueSequence();
 }
 
-// Generates a random pattern for 
+// Generates a random pattern 
 function makePattern(){
   for(let i = 0; i < lenPattern; i++){
     pattern[i] = Math.round(Math.random()*4)
